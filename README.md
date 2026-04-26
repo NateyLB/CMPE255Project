@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Tech Stack
 
-- Python, pandas, scikit-learn, XGBoost
+- Python 3.10+, pandas, scikit-learn, XGBoost
 - HuggingFace Transformers (DistilBERT)
 - gensim (LDA), pyLDAvis
 - SHAP
